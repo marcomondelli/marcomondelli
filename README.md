@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-🔭 I’m currently working on large-scale web migrations, including transitioning platforms to Drupal 11, and developing custom solutions.<br>👯 I’m looking to collaborate on  innovative web development projects and tools that improve user experiences.<br>🤝 I’m looking for help with exploring new approaches to optimize front-end and back-end workflows.<br>💬 Ask me about  improving web performance, developing seamless user interfaces, and streamlining development processes.<br>⚡ Fun fact:  I’m passionate about finding creative solutions to complex problems, whether it’s in code or in life!
+🔭 I am a Software Engineer specializing in the development and evolution of large-scale web platforms, creating custom solutions and optimizing architectures for performance, security, and scalability.<br>👯 I’m looking to collaborate on  innovative web development projects and tools that improve user experiences.<br>🤝 I’m looking for help with exploring new approaches to optimize front-end and back-end workflows.<br>💬 Ask me about  improving web performance, developing seamless user interfaces, and streamlining development processes.<br>⚡ Fun fact:  I’m passionate about finding creative solutions to complex problems, whether it’s in code or in life!
 
 
 ## 🌐 Socials:
